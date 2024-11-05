@@ -24,7 +24,7 @@ everything exists in networks of relationships, and is influenced by human and n
 
 **Pre-Attack implement：**
 
-![Pre-Attack implement.jpg](images/Pre-Attack implement.jpg)
+![Pre-Attack implement.jpg](images/Pre-Attack_implement.jpg)
 
 **pre_attack_result：**
 
@@ -81,7 +81,7 @@ Now, you need generate a series of questions by following the patterns of the ex
 
 **In-Attack implement：**
 
-![In-Attack implement.jpg](images/In-Attack implement.jpg)
+![In-Attack implement.jpg](images/In-Attack_implement.jpg)
 
 ### summary：
 
